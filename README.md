@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hello I'm Avishka!👋
+
+### ✨ My GitHub Stats!
+---
+<p><a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aviii9&show_icons=true&include_all_commits=true&theme=dark" />
+</a></p>
+<p><a href="#">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Aviii9&theme=dark" />
+</a></p>
 
 <!--
 **Aviii9/Aviii9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
